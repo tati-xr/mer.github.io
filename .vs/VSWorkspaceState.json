@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows"
+    "\\apropos"
   ],
-  "SelectedNode": "\\.github\\workflows\\gh-pages.yml",
+  "SelectedNode": "\\main.css.map",
   "PreviewInSolutionExplorer": false
 }
