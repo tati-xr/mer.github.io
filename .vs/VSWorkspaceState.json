@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\mer",
+  "SelectedNode": "\\.github\\workflows\\gh-pages.yml",
   "PreviewInSolutionExplorer": false
 }

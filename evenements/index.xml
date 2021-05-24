@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>events on M.E.R. Lausanne</title>
+    <link>https://tati-xr/mer.github.io/evenements/</link>
+    <description>Recent content in events on M.E.R. Lausanne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 29 Dec 2017 12:15:02 +0000</lastBuildDate><atom:link href="https://tati-xr/mer.github.io/evenements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://tati-xr/mer.github.io/evenements/test/</link>
+      <pubDate>Mon, 17 May 2021 19:39:02 +0200</pubDate>
+      
+      <guid>https://tati-xr/mer.github.io/evenements/test/</guid>
+      <description>This is test page</description>
+    </item>
+    
+    <item>
+      <title>power</title>
+      <link>https://tati-xr/mer.github.io/evenements/power/</link>
+      <pubDate>Wed, 31 Mar 2021 21:00:00 +0200</pubDate>
+      
+      <guid>https://tati-xr/mer.github.io/evenements/power/</guid>
+      <description>This is test page</description>
+    </item>
+    
+    <item>
+      <title>the</title>
+      <link>https://tati-xr/mer.github.io/evenements/the/</link>
+      <pubDate>Thu, 25 Mar 2021 20:00:00 +0200</pubDate>
+      
+      <guid>https://tati-xr/mer.github.io/evenements/the/</guid>
+      <description>This is test page</description>
+    </item>
+    
+    <item>
+      <title>fight</title>
+      <link>https://tati-xr/mer.github.io/evenements/fight/</link>
+      <pubDate>Thu, 25 Mar 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://tati-xr/mer.github.io/evenements/fight/</guid>
+      <description>This is test page</description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>https://tati-xr/mer.github.io/evenements/test-2/</link>
+      <pubDate>Wed, 25 Apr 2018 19:00:00 +0200</pubDate>
+      
+      <guid>https://tati-xr/mer.github.io/evenements/test-2/</guid>
+      <description>This is test page</description>
+    </item>
+    
+  </channel>
+</rss>
